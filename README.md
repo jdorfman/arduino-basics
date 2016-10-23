@@ -28,3 +28,7 @@ This project is to help you get up-and-running with Arduino, the popular open-so
 * Hardware
  * [Arduino Uno Starter Kit](https://store-usa.arduino.cc/products/arduino-starter-kit)
  * [Uno Starter Kit by OSEPP (Third Party) ](https://www.amazon.com/OSEPP-Arduino-Basic-Starter-ARD-01/dp/B009NNEURY)
+* Tutorials
+  * [Official Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
+  * [YouTube - Getting Acquainted with Arduino](https://www.youtube.com/watch?v=fCxzA9_kg6s)
+  * [Ladyada's Learn Arduino](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0?view=all)
