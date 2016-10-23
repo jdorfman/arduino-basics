@@ -14,7 +14,7 @@ This project is to help you get up-and-running with Arduino, the popular open-so
 * Resistors
 * Jumper Cables
 
-**Note**: If you don't have any of those, don't worry you can share with someone else. =)
+**Note**: If you don't have any of those, don't worry you can share with someone else at the [meetup](http://www.meetup.com/la-fullstack/). =)
 
 ## Resources
 * Software
