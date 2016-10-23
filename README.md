@@ -1,6 +1,6 @@
 # Arduino Basics
 
-This project is to help you get up and running with Arduino, the popular open-source electronics platform based on easy-to-use hardware and software. Once you are set up you can pair-up with the other hardware hackers at our [weekly meetups](http://www.meetup.com/la-fullstack/).
+This project is to help you get up-and-running with Arduino, the popular open-source electronics platform based on easy-to-use hardware and software. Once you are set up you can pair-up with the other hardware hackers at our [weekly meetups](http://www.meetup.com/la-fullstack/).
 
 ## Prerequisites
 
