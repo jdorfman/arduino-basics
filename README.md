@@ -30,5 +30,7 @@ This project is to help you get up-and-running with Arduino, the popular open-so
  * [Uno Starter Kit by OSEPP (Third Party) ](https://www.amazon.com/OSEPP-Arduino-Basic-Starter-ARD-01/dp/B009NNEURY)
 * Tutorials
   * [Official Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
-  * [YouTube - Getting Acquainted with Arduino](https://www.youtube.com/watch?v=fCxzA9_kg6s)
+  * [Getting Acquainted with Arduino - YouTube](https://www.youtube.com/watch?v=fCxzA9_kg6s)
   * [Ladyada's Learn Arduino](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0?view=all)
+  * [JavaScript Powered Arduino with Johnny-Five - O'Reilly Safari](https://www.safaribooksonline.com/blog/2013/07/16/javascript-powered-arduino-with-johnny-five/)
+  * [Arduino Experimenter's Guide for NodeJS](http://node-ardx.org/)
