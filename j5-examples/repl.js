@@ -17,7 +17,11 @@ board.on('ready', function () {
     },
     // >> strobe()
     strobe: function () {
-      led.strobe(50) // Bug: Doesn't turn off
+      led.strobe(50)
+    },
+    // >> stop()
+    stop: function () {
+      led.stop()
     },
     // >> off()
     off: function () {
