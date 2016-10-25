@@ -35,3 +35,4 @@ This project is to help you get up-and-running with Arduino, the popular open-so
   * [Ladyada's Learn Arduino](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0?view=all)
   * [JavaScript Powered Arduino with Johnny-Five - O'Reilly Safari](https://www.safaribooksonline.com/blog/2013/07/16/javascript-powered-arduino-with-johnny-five/)
   * [Arduino Experimenter's Guide for NodeJS](http://node-ardx.org/)
+  * [Arduino Arrays](https://www.arduino.cc/en/Tutorial/Arrays)
