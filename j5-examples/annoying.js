@@ -6,9 +6,13 @@ five.Board().on('ready', function () {
   var led7 = new five.Led(7)
   var led13 = new five.Led(13)
   var led3 = new five.Led(3)
+  var led12 = new five.Led(12)
+  var led5 = new five.Led(5)
   var val = 0
   led13.strobe(230)
+  led12.strobe(440)
   led3.strobe(500)
+  led5.strobe(80)
   led7.strobe(61)
   this.loop(300, function () {
     if (val ^= 1) {
