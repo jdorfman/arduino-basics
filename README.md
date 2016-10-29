@@ -18,25 +18,26 @@ This project is to help you get up-and-running with Arduino, the popular open-so
 
 ## Directions
 
-- In a medium sauce pan...
- 1. take your laptop out of the meduim sauce pan
- 2. In the terminal, do: `npm install -G johnny-five`
- 3. Install Atom. Oh, and `apm install script` you'll be wanting that.
- 4. If you're running Ubuntu or other Debian distro, In the terminal, do:
-  - `whoami` Make careful note of who you are.
-  - `sudo usermod -a -G dialout ` + who you are. (`whoami` told you this.)
- 5. If you're on a mac, you don't have to shave the yak in step 5.
- 6. Keep your laptop out of the sauce pan.
- 7. Fork and clone this repo.
- 8. In the terminal, do: `cd arduino-basic`
- 9. In the terminal, do: `atom .`
- 10. Plug the arduino into a convenient USB port on your laptop. (It ought to be set up with the LED and everything already.)
- 11. In atom, open `strobe.js`
- 12. Click anywhere in the code editor and then type the magic command keys: Debian/Ubuntu: `SHIFT-CTRL-B` Mac: `⌘I`
+In a medium sauce pan...
 
- This incantation should make the light on the arduino blink repeatedly. You have now used JS and Johnny 5 to make a physical thing do a thing!
+1. take your laptop out of the meduim sauce pan
+2. In the terminal, do: `npm install -G johnny-five`
+3. Install Atom. Oh, and `apm install script` you'll be wanting that.
+4. If you're running Ubuntu or other Debian distro, In the terminal, do:
+ - `whoami` Make careful note of who you are.
+ - `sudo usermod -a -G dialout ` + who you are. (`whoami` told you this.)
+5. If you're on a mac, you don't have to shave the yak in step 5.
+6. Keep your laptop out of the sauce pan.
+7. Fork and clone this repo.
+8. In the terminal, do: `cd arduino-basic`
+9. In the terminal, do: `atom .`
+10. Plug the arduino into a convenient USB port on your laptop. (It ought to be set up with the LED and everything already.)
+11. In atom, open `strobe.js`
+12. Click anywhere in the code editor and then type the magic command keys: Debian/Ubuntu: `SHIFT-CTRL-B` Mac: `⌘I`
 
- What!? It dodn't do the thing?! Raise an issue! Clearly we didn't 'splain it right!
+This incantation should make the light on the arduino blink repeatedly. You have now used JS and Johnny 5 to make a physical thing do a thing!
+
+What!? It dodn't do the thing?! Raise an issue! Clearly we didn't 'splain it right!
 
 ## Resources that you can ignore
 * Software
