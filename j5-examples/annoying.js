@@ -2,11 +2,11 @@
 
 var five = require('johnny-five')
 five.Board().on('ready', function () {
-  var piezo = new five.Piezo(9)
+  var piezo = new five.Piezo(13)
   var led7 = new five.Led(7)
-  var led13 = new five.Led(13)
+  var led13 = new five.Led(10)
   var led3 = new five.Led(3)
-  var led12 = new five.Led(12)
+  var led12 = new five.Led(8)
   var led5 = new five.Led(5)
   var val = 0
   led13.strobe(230)
