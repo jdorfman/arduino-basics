@@ -2,11 +2,13 @@
 
 This project is to help you get up-and-running with Arduino, the popular open-source electronics platform based on easy-to-use hardware and software. Once you are set up you can pair-up with the other hardware hackers at our [weekly meetups](http://www.meetup.com/la-fullstack/).
 
-## Ingredients
+## Basic Ingredients
 
 * Laptop (running macOS, Linux or Windows)
 * USB Port
-* [Atom](https://atom.io/) with [script package](https://atom.io/packages/script) (recommended)
+* [Atom](https://atom.io/) with:
+ * [Script package](https://atom.io/packages/script) (recommended)
+ * [Standard linter package](https://atom.io/packages/linter-js-standard) (recommended)
 * Node.js
 * Arduino Uno (or compatible board)
 * Breadboard
