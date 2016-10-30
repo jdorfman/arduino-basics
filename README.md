@@ -7,7 +7,7 @@ This project is to help you get up-and-running with Arduino, the popular open-so
 * Laptop (running macOS, Linux or Windows)
 * USB Port
 * [Atom](https://atom.io/) with:
- * [Script package](https://atom.io/packages/script) (recommended)
+ * [Script package](https://atom.io/packages/script)
  * [Standard linter package](https://atom.io/packages/linter-js-standard) (recommended)
 * Node.js
 * Arduino Uno (or compatible board)
