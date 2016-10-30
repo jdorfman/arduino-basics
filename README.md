@@ -33,7 +33,10 @@ In a medium sauce pan...
 9. In the terminal, do: `atom .`
 10. Plug the Arduino into a convenient USB port on your laptop. (It ought to be set up with the LED and everything already.)
 11. In atom, open `strobe.js`
-12. Click anywhere in the code editor and then type the magic command keys: Debian/Ubuntu: `SHIFT-CTRL-B` Mac: `⌘I`
+12. Click anywhere in the code editor and then type the magic command keys:
+ * macOS: `⌘I`
+ * Linux: `SHIFT-CTRL-B`
+ * Windows: _coming soon_
 
 This incantation should make the light on the Arduino blink repeatedly. You have now used JS and Johnny 5 to make a physical thing do a thing!
 
