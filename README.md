@@ -26,7 +26,7 @@ In a medium sauce pan...
 4. If you're running Ubuntu or other Debian distro, In the terminal, do:
  - `whoami` Make careful note of who you are.
  - `sudo usermod -a -G dialout ` + who you are. (`whoami` told you this.)
-5. If you're on a mac, you don't have to shave the yak in step 5.
+5. If you're on a mac, you don't have to shave the yak in step 4.
 6. Keep your laptop out of the sauce pan.
 7. Fork and clone this repo.
 8. In the terminal, do: `cd arduino-basic`
