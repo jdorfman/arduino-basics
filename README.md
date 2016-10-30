@@ -40,6 +40,8 @@ In a medium sauce pan...
  * Linux: `SHIFT-CTRL-B`
  * Windows: _coming soon_
 
+> Extra credit: [Star this repo](https://github.com/jdorfman/arduino-basics/stargazers)
+
 This incantation should make the light on the Arduino blink repeatedly. You have now used JS and Johnny 5 to make a physical thing do a thing!
 
 What!? It didn't do the thing?! [Raise an issue](https://github.com/jdorfman/arduino-basics/issues)! Clearly we didn't 'splain it right!
