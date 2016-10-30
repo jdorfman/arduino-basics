@@ -21,7 +21,7 @@ This project is to help you get up-and-running with Arduino, the popular open-so
 In a medium sauce pan...
 
 1. take your laptop out of the meduim sauce pan
-2. In the terminal, do: `npm install -G johnny-five`
+2. In the terminal, do: `npm install -g johnny-five`
 3. Install Atom. Oh, and `apm install script` you'll be wanting that.
 4. If you're running Ubuntu or other Debian distro, In the terminal, do:
  - `whoami` Make careful note of who you are.
