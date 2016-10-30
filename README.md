@@ -23,7 +23,7 @@ In a medium sauce pan...
 1. take your laptop out of the meduim sauce pan
 2. In the terminal, do: `npm install -g johnny-five`
 3. Install Atom. Oh, and `apm install script` you'll be wanting that.
-4. If you're running Ubuntu or other Debian distro, In the terminal, do:
+4. If you're running Ubuntu or Linux distro, In the terminal, do:
  - `whoami` Make careful note of who you are.
  - `sudo usermod -a -G dialout <whoyouare>` (`whoami` told you this.)
 5. If you're on a mac, you don't have to shave the yak in step 4.
